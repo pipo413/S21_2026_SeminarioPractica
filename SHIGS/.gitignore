@@ -1,0 +1,24 @@
+# build output de Maven
+target/
+*.class
+
+# configuracion del IDE (IntelliJ)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# logs
+*.log
+
+# sistema
+.DS_Store
+Thumbs.db
